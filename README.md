@@ -1,6 +1,7 @@
 # vuex-demo
 
 ## Project setup
+
 ```
 npm install
 ```
